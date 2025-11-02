@@ -73,7 +73,7 @@ Upon successful building and database configuration, the Swift Bank Queueing Sys
 
 ## 📧 Contact
 
-For project inquiries or technical feedback, please contact the developer:
+For any inquiries or feedback regarding this project, please reach out:
 
 | Contributor | Github Account |
 | :-------------- | :--------------------------------------- |
