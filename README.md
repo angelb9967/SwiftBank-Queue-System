@@ -2,7 +2,16 @@
   <img width="600" alt="swift bank logo 1-Photoroom" src="https://github.com/user-attachments/assets/33d96868-432b-4981-b700-a583b99e962b" />
 </div>
 
-# 🏦 Swift Bank Queueing System
+<p align="center">
+  <a href="https://github.com/angelb9967/SwiftBank-Queue-System/issues/new">
+    <img src="https://img.shields.io/badge/Report%20a%20Bug-red?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/angelb9967/SwiftBank-Queue-System/issues/new">
+    <img src="https://img.shields.io/badge/Request%20Feature-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+# Swift Bank Queueing System
 
 ## ✨ Project Overview
 
@@ -104,6 +113,5 @@ Get a quick look at the Swift Bank Queueing System in action!
 <img width="1274" height="717" alt="image" src="https://github.com/user-attachments/assets/f5be17e7-5c69-4859-bd35-d1693be6f1b5" />
 <img width="1274" height="717" alt="image" src="https://github.com/user-attachments/assets/4b1b4ee1-3b6a-4030-a222-a4890a057770" />
 
-
-
-
+<br><br>
+<img src="https://img.shields.io/badge/Developed%20with%20%E2%9D%A4-angelb9967-red?style=for-the-badge" />
