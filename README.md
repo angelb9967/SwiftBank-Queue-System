@@ -10,9 +10,7 @@
 
 ## ✨ Project Overview
 
-The **Swift Bank Queueing System** is a desktop application developed with **Java** in **NetBeans**, utilizing **MySQL Workbench** for database management. It's designed to efficiently manage customer queues and service operations within a bank.
-
-This system streamlines customer flow, provides real-time service insights, and enhances overall branch efficiency.
+The **Swift Bank Queueing System** is a desktop application developed with **Java** in **NetBeans**, utilizing **MySQL Workbench** for database management. It's designed to manage customer queues within a bank.
 
 ## 🌟 Key Features
 
